@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Circular-Std';
+    src: local('Circular Std Black'), local('Circular-Std-Black'),
+        url('CircularStd-Black.woff2') format('woff2'),
+        url('CircularStd-Black.woff') format('woff'),
+        url('CircularStd-Black.ttf') format('truetype');
+    
+    font-style: normal;
+}
+.font {
+    font-family: 'Circular-Std';
+    line-height: 95px;
+}
+.font-circular {
+    font-family: 'Circular-Std';
+}
